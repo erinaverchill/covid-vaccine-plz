@@ -1,0 +1,298 @@
+county,city,totalcountconfirmed,totalcountdeaths
+Orange,Aliso Viejo,206,
+Orange,Anaheim,4654,
+Orange,Brea,239,
+Orange,Buena Park,738,
+Orange,Costa Mesa,840,
+Orange,Coto de Caza,15,
+Orange,Cypress,251,
+Orange,Dana Point,135,
+Orange,Fountain Valley,269,
+Orange,Fullerton,1251,
+Orange,Garden Grove,1400,
+Orange,Huntington Beach,1323,
+Orange,Irvine,875,
+Orange,La Habra,614,
+Orange,La Palma,91,
+Orange,Ladera Ranch,87,
+Orange,Laguna Beach,102,
+Orange,Laguna Hills,159,
+Orange,Laguna Niguel,207,
+Orange,Laguna Woods,32,
+Orange,Lake Forest,404,
+Orange,Los Alamitos,135,
+Orange,Midway City,54,
+Orange,Mission Viejo,421,
+Orange,Newport Beach,648,
+Orange,Orange,1244,
+Orange,Placentia,488,
+Orange,Rancho Mission Viejo,38,
+Orange,Rancho Santa Margarita,177,
+Orange,Rossmoor,26,
+Orange,San Clemente,237,
+Orange,San Juan Capistrano,181,
+Orange,Santa Ana,5081,
+Orange,Seal Beach,155,
+Orange,Silverado,16,
+Orange,Stanton,308,
+Orange,Trabuco Canyon,107,
+Orange,Tustin,586,
+Orange,Villa Park,34,
+Orange,Westminster,507,
+Orange,Yorba Linda,357,
+Los Angeles,Agoura Hills,81,1
+Los Angeles,Alhambra,650,13
+Los Angeles,Arcadia,237,11
+Los Angeles,Artesia,172,2
+Los Angeles,Avalon,5,0
+Los Angeles,Azusa,733,9
+Los Angeles,Baldwin Park,1429,35
+Los Angeles,Bell,857,24
+Los Angeles,Bell Gardens,1019,12
+Los Angeles,Bellflower,1279,38
+Los Angeles,Beverly Hills,425,8
+Los Angeles,Bradbury,7,0
+Los Angeles,Burbank,763,49
+Los Angeles,Calabasas,159,11
+Los Angeles,Carson,925,33
+Los Angeles,Cerritos,330,7
+Los Angeles,Claremont,180,3
+Los Angeles,Commerce*,299,2
+Los Angeles,Compton,2073,26
+Los Angeles,Covina,700,12
+Los Angeles,Cudahy,613,10
+Los Angeles,Culver City,266,27
+Los Angeles,Diamond Bar,289,4
+Los Angeles,Downey,2378,55
+Los Angeles,Duarte,270,22
+Los Angeles,El Monte,2296,69
+Los Angeles,El Segundo,82,0
+Los Angeles,Gardena,666,32
+Los Angeles,Glendale,1821,120
+Los Angeles,Glendora,671,15
+Los Angeles,Hawaiian Gardens,271,1
+Los Angeles,Hawthorne,1002,27
+Los Angeles,Hermosa Beach,124,2
+Los Angeles,Hidden Hills,5,0
+Los Angeles,Huntington Park,1598,25
+Los Angeles,Industry,21,2
+Los Angeles,Inglewood,1432,68
+Los Angeles,Irwindale,34,0
+Los Angeles,La Canada Flintridge,95,6
+Los Angeles,La Habra Heights,19,0
+Los Angeles,La Mirada,487,21
+Los Angeles,La Puente,740,5
+Los Angeles,La Verne,197,2
+Los Angeles,Lakewood,688,8
+Los Angeles,Lancaster*,1550,21
+Los Angeles,Lawndale,308,8
+Los Angeles,Lomita,117,7
+Los Angeles,Lynwood*,1833,66
+Los Angeles,Malibu,69,2
+Los Angeles,Manhattan Beach,213,4
+Los Angeles,Maywood,771,22
+Los Angeles,Monrovia,412,30
+Los Angeles,Montebello,1245,32
+Los Angeles,Monterey Park,460,12
+Los Angeles,Norwalk,1747,37
+Los Angeles,Palmdale,1790,25
+Los Angeles,Palos Verdes Estates,62,2
+Los Angeles,Paramount,1279,15
+Los Angeles,Pico Rivera,1379,44
+Los Angeles,Pomona,2345,37
+Los Angeles,Rancho Palos Verdes,185,12
+Los Angeles,Redondo Beach,318,9
+Los Angeles,Rolling Hills,4,0
+Los Angeles,Rolling Hills Estates,30,2
+Los Angeles,Rosemead,401,11
+Los Angeles,San Dimas*,264,2
+Los Angeles,San Fernando,413,12
+Los Angeles,San Gabriel,323,25
+Los Angeles,San Marino,36,1
+Los Angeles,Santa Clarita,1676,34
+Los Angeles,Santa Fe Springs,282,1
+Los Angeles,Santa Monica,535,37
+Los Angeles,Sierra Madre,44,3
+Los Angeles,Signal Hill,138,0
+Los Angeles,South El Monte,404,11
+Los Angeles,South Gate,2476,40
+Los Angeles,South Pasadena,192,23
+Los Angeles,Temple City,325,34
+Los Angeles,Torrance,792,51
+Los Angeles,Vernon,14,0
+Los Angeles,Walnut,150,1
+Los Angeles,West Covina,1577,19
+Los Angeles,West Hollywood,354,4
+Los Angeles,Westlake Village,14,0
+Los Angeles,Whittier,1151,15
+San Diego,Incorporated City,"18,485",
+San Diego,Carlsbad,334,
+San Diego,Chula Vista,"2,781",
+San Diego,Coronado,94,
+San Diego,Del Mar,24,
+San Diego,El Cajon,"1,033",
+San Diego,Encinitas,212,
+San Diego,Escondido,853,
+San Diego,Imperial Beach,275,
+San Diego,La Mesa,343,
+San Diego,Lemon Grove,228,
+San Diego,National City,892,
+San Diego,Oceanside,696,
+San Diego,Poway,144,
+San Diego,San Diego,"9,401",
+San Diego,San Marcos,440,
+San Diego,Santee,192,
+San Diego,Solana Beach,34,
+San Diego,Vista,509,
+San Diego,Unincorporated,"2,635",
+San Diego,Alpine,49,
+San Diego,Bonita,83,
+San Diego,Bonsall,23,
+San Diego,Borrego Springs,15,
+San Diego,Boulevard,4,
+San Diego,Campo,11,
+San Diego,Descanso,6,
+San Diego,Dulzura,30,
+San Diego,Fallbrook,190,
+San Diego,Jamul,41,
+San Diego,Julian,4,
+San Diego,Lakeside,158,
+San Diego,Pala,21,
+San Diego,Pauma Valley,8,
+San Diego,Pine Valley,4,
+San Diego,Potrero,18,
+San Diego,Ramona,122,
+San Diego,Ranchita,3,
+San Diego,Rancho Santa Fe,42,
+San Diego,Santa Ysabel,2,
+San Diego,Spring Valley,719,
+San Diego,Tecate,12,
+San Diego,Valley Center,57,
+San Diego,Warner Springs,4,
+San Diego,Other,"1,009",
+San Diego,Unknown****,326,
+San Diego,Total San Diego County Residents,"21,446",
+Riverside,County Jails,259,3
+Riverside,State Prison,"1,156",1
+Riverside,Incorporated City,"20,889",493
+Riverside,Banning,284,10
+Riverside,Beaumont,474,12
+Riverside,Blythe,265,3
+Riverside,Calimesa,64,1
+Riverside,Canyon Lake,33,0
+Riverside,Cathedral City,966,10
+Riverside,Coachella,"1,474",14
+Riverside,Corona,"1,250",18
+Riverside,Desert Hot Springs,445,5
+Riverside,Eastvale,478,9
+Riverside,Hemet,644,28
+Riverside,Indian Wells,24,0
+Riverside,Indio,"1,937",44
+Riverside,Jurupa Valley,"1,328",28
+Riverside,La Quinta,432,12
+Riverside,Lake Elsinore,469,10
+Riverside,Menifee,522,7
+Riverside,Moreno Valley,"2,329",38
+Riverside,Murrieta,497,11
+Riverside,Norco,339,2
+Riverside,Palm Desert,579,31
+Riverside,Palm Springs,489,17
+Riverside,Perris,825,19
+Riverside,Rancho Mirage,137,12
+Riverside,Riverside,"3,502",139
+Riverside,San Jacinto,452,7
+Riverside,Temecula,440,1
+Riverside,Wildomar,211,5
+San Bernardino,Adelanto,264,5
+San Bernardino,Angelus Oaks,1,0
+San Bernardino,Apple Valley,320,2
+San Bernardino,Argus,0,0
+San Bernardino,Arrowbear,0,0
+San Bernardino,Baker,3,0
+San Bernardino,Baldy Mesa,3,0
+San Bernardino,Barstow,92,2
+San Bernardino,Big Bear City,15,0
+San Bernardino,Big Bear Lake,18,0
+San Bernardino,Big River,1,0
+San Bernardino,Bloomington,414,5
+San Bernardino,Blue Jay,6,1
+San Bernardino,Cedar Glen,2,0
+San Bernardino,Cedarpines Park,0,0
+San Bernardino,Chino*,"1,822",0
+San Bernardino,Chino Hills,447,4
+San Bernardino,Colton,947,20
+San Bernardino,Crestline,31,2
+San Bernardino,Crestmore,0,0
+San Bernardino,Daggett,1,0
+San Bernardino,Devore,1,0
+San Bernardino,El Mirage,0,0
+San Bernardino,Fawnskin,0,0
+San Bernardino,Fontana,"2,662",24
+San Bernardino,Forest Falls,3,0
+San Bernardino,Fort Irwin,2,0
+San Bernardino,Grand Terrace,161,6
+San Bernardino,Green Valley Lake,0,0
+San Bernardino,Havasu,0,0
+San Bernardino,Helendale,22,0
+San Bernardino,Hesperia,590,3
+San Bernardino,Highland,648,7
+San Bernardino,Hinkley,3,0
+San Bernardino,Johnson Valley,0,0
+San Bernardino,Joshua Tree,24,2
+San Bernardino,Lake Arrowhead,3,0
+San Bernardino,Landers,1,0
+San Bernardino,Lenwood,0,0
+San Bernardino,Loma Linda,247,1
+San Bernardino,Lucerne Valley,7,0
+San Bernardino,Lytle Creek,3,0
+San Bernardino,Mentone,145,2
+San Bernardino,Montclair,458,8
+San Bernardino,Morongo Valley,13,0
+San Bernardino,Mt Baldy,0,0
+San Bernardino,Muscoy,7,0
+San Bernardino,Needles,16,0
+San Bernardino,Newberry Springs,3,0
+San Bernardino,Oak Glen,0,0
+San Bernardino,Oak Hills,66,1
+San Bernardino,Ontario,"2,065",39
+San Bernardino,Oro Grande,6,0
+San Bernardino,Phelan,70,0
+San Bernardino,Piñon Hills,22,0
+San Bernardino,Pioneertown,1,0
+San Bernardino,Rancho Cucamonga,"1,139",10
+San Bernardino,Redlands,887,52
+San Bernardino,Rialto,"1,295",14
+San Bernardino,Rimforest,1,0
+San Bernardino,Running Springs,12,0
+San Bernardino,San Antonio Heights,0,0
+San Bernardino,San Bernardino,"3,475",28
+San Bernardino,Spring Valley Lake,0,0
+San Bernardino,Sugarloaf,4,0
+San Bernardino,Trona,0,0
+San Bernardino,Twentynine Palms,17,0
+San Bernardino,TN Palms Marine Base,0,0
+San Bernardino,Twin Peaks,4,0
+San Bernardino,Upland,555,14
+San Bernardino,Valley of Enchantment,0,0
+San Bernardino,Victorville,"1,034",8
+San Bernardino,Wonder Valley,0,0
+San Bernardino,Wrightwood,3,0
+San Bernardino,Yermo,3,0
+San Bernardino,Yucaipa,519,26
+San Bernardino,Yucca Valley,82,1
+San Bernardino,Undetermined,802,3
+San Bernardino,Grand Total,"21,468",310
+Santa Barbara,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",81,0
+Santa Barbara,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,500,3
+Santa Barbara,CITY OF GOLETA,93,2
+Santa Barbara,COMMUNITY OF ISLA VISTA,28,0
+Santa Barbara,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,69,1
+Santa Barbara,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",43,0
+Santa Barbara,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,252,4
+Santa Barbara,FEDERAL PRISON IN LOMPOC,1000,3
+Santa Barbara,CITY OF SANTA MARIA,1924,18
+Santa Barbara,COMMUNITY OF ORCUTT,134,0
+Santa Barbara,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",172,0
+Santa Barbara,Out of County,—,1
+Santa Barbara,Pending,116,—
+Santa Barbara,Total,4412,32
