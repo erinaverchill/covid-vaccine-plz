@@ -2,7 +2,16 @@
 ### Erin Averill, Srinivas Hanumansetty, Adrian Llamas, Andrea Rosenberger, and Jungie Son
 
 #### Data Sources
-https://data.ca.gov/group/covid-19
+CDPH Coronavirus Science Branch (3/18/2020 - present)
+https://data.ca.gov/dataset/covid-19-cases
+[from https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/nCOV2019.aspx]
+
+OC Health Care Agency
+https://ochca.maps.arcgis.com/apps/opsdashboard/index.html#/5839a554eaac45c2b8e05dacc74c3bec
+
+County of Los Angeles Public Health
+http://publichealth.lacounty.gov/media/Coronavirus/locations.htm
+
 https://www.worldometers.info/coronavirus/usa/california/
 https://occovid19.ochealthinfo.com/coronavirus-in-oc
 http://publichealth.lacounty.gov/media/Coronavirus/data/index.htm
