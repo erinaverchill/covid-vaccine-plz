@@ -1,177 +1,177 @@
 county,city,totalcountconfirmed,totalcountdeaths
-Orange,Aliso Viejo,206,
-Orange,Anaheim,4654,
-Orange,Brea,239,
-Orange,Buena Park,738,
-Orange,Costa Mesa,840,
-Orange,Coto de Caza,15,
-Orange,Cypress,251,
-Orange,Dana Point,135,
-Orange,Fountain Valley,269,
-Orange,Fullerton,1251,
-Orange,Garden Grove,1400,
-Orange,Huntington Beach,1323,
-Orange,Irvine,875,
-Orange,La Habra,614,
-Orange,La Palma,91,
-Orange,Ladera Ranch,87,
-Orange,Laguna Beach,102,
-Orange,Laguna Hills,159,
-Orange,Laguna Niguel,207,
-Orange,Laguna Woods,32,
-Orange,Lake Forest,404,
-Orange,Los Alamitos,135,
-Orange,Midway City,54,
-Orange,Mission Viejo,421,
-Orange,Newport Beach,648,
-Orange,Orange,1244,
-Orange,Placentia,488,
-Orange,Rancho Mission Viejo,38,
-Orange,Rancho Santa Margarita,177,
-Orange,Rossmoor,26,
-Orange,San Clemente,237,
-Orange,San Juan Capistrano,181,
-Orange,Santa Ana,5081,
-Orange,Seal Beach,155,
-Orange,Silverado,16,
-Orange,Stanton,308,
-Orange,Trabuco Canyon,107,
-Orange,Tustin,586,
-Orange,Villa Park,34,
-Orange,Westminster,507,
-Orange,Yorba Linda,357,
-Los Angeles,Agoura Hills,81,1
-Los Angeles,Alhambra,650,13
-Los Angeles,Arcadia,237,11
-Los Angeles,Artesia,172,2
+Orange,Aliso Viejo ,215,1
+Orange,Anaheim ,4792,112
+Orange,Brea ,248,5
+Orange,Buena Park ,765,6
+Orange,Costa Mesa ,865,5
+Orange,Coto de Caza ,16, Less than 5 
+Orange,Cypress ,261,6
+Orange,Dana Point ,138,0
+Orange,Fountain Valley ,276,8
+Orange,Fullerton ,1284,22
+Orange,Garden Grove ,1437,15
+Orange,Huntington Beach ,1357,43
+Orange,Irvine ,907,7
+Orange,La Habra ,642,7
+Orange,La Palma ,94, Less than 5 
+Orange,Ladera Ranch ,87,0
+Orange,Laguna Beach ,105, Less than 5 
+Orange,Laguna Hills ,166,5
+Orange,Laguna Niguel ,216,0
+Orange,Laguna Woods ,33, Less than 5 
+Orange,Lake Forest ,417,1
+Orange,Los Alamitos ,140,16
+Orange,Midway City ,56, Less than 5 
+Orange,Mission Viejo ,435,3
+Orange,Newport Beach ,668,3
+Orange,Orange ,1284,16
+Orange,Placentia ,502,2
+Orange,Rancho Mission Viejo ,38, Less than 5 
+Orange,Rancho Santa Margarita ,185,0
+Orange,Rossmoor ,26, Less than 5 
+Orange,San Clemente ,241,3
+Orange,San Juan Capistrano ,184,3
+Orange,Santa Ana ,5225,122
+Orange,Seal Beach ,157,17
+Orange,Silverado ,17, Less than 5 
+Orange,Stanton ,318,4
+Orange,Trabuco Canyon ,110, Less than 5 
+Orange,Tustin ,608,7
+Orange,Villa Park ,35, Less than 5 
+Orange,Westminster ,518,12
+Orange,Yorba Linda ,375,4
+Los Angeles,Agoura Hills,86,1
+Los Angeles,Alhambra,674,13
+Los Angeles,Arcadia,244,12
+Los Angeles,Artesia,175,3
 Los Angeles,Avalon,5,0
-Los Angeles,Azusa,733,9
-Los Angeles,Baldwin Park,1429,35
-Los Angeles,Bell,857,24
-Los Angeles,Bell Gardens,1019,12
-Los Angeles,Bellflower,1279,38
-Los Angeles,Beverly Hills,425,8
+Los Angeles,Azusa,762,9
+Los Angeles,Baldwin Park,1486,33
+Los Angeles,Bell,880,26
+Los Angeles,Bell Gardens,1046,12
+Los Angeles,Bellflower,1322,39
+Los Angeles,Beverly Hills,453,8
 Los Angeles,Bradbury,7,0
-Los Angeles,Burbank,763,49
-Los Angeles,Calabasas,159,11
-Los Angeles,Carson,925,33
-Los Angeles,Cerritos,330,7
-Los Angeles,Claremont,180,3
-Los Angeles,Commerce*,299,2
-Los Angeles,Compton,2073,26
-Los Angeles,Covina,700,12
-Los Angeles,Cudahy,613,10
-Los Angeles,Culver City,266,27
-Los Angeles,Diamond Bar,289,4
-Los Angeles,Downey,2378,55
-Los Angeles,Duarte,270,22
-Los Angeles,El Monte,2296,69
-Los Angeles,El Segundo,82,0
-Los Angeles,Gardena,666,32
-Los Angeles,Glendale,1821,120
-Los Angeles,Glendora,671,15
-Los Angeles,Hawaiian Gardens,271,1
-Los Angeles,Hawthorne,1002,27
-Los Angeles,Hermosa Beach,124,2
+Los Angeles,Burbank,788,50
+Los Angeles,Calabasas,162,11
+Los Angeles,Carson,959,36
+Los Angeles,Cerritos,337,7
+Los Angeles,Claremont,189,3
+Los Angeles,Commerce*,313,2
+Los Angeles,Compton,2153,28
+Los Angeles,Covina,723,11
+Los Angeles,Cudahy,640,11
+Los Angeles,Culver City,272,27
+Los Angeles,Diamond Bar,303,4
+Los Angeles,Downey,2474,58
+Los Angeles,Duarte,274,23
+Los Angeles,El Monte,2368,69
+Los Angeles,El Segundo,84,0
+Los Angeles,Gardena,688,34
+Los Angeles,Glendale,1880,122
+Los Angeles,Glendora,696,19
+Los Angeles,Hawaiian Gardens,282,1
+Los Angeles,Hawthorne,1047,27
+Los Angeles,Hermosa Beach,127,2
 Los Angeles,Hidden Hills,5,0
-Los Angeles,Huntington Park,1598,25
+Los Angeles,Huntington Park,1639,26
 Los Angeles,Industry,21,2
-Los Angeles,Inglewood,1432,68
-Los Angeles,Irwindale,34,0
-Los Angeles,La Canada Flintridge,95,6
+Los Angeles,Inglewood,1488,70
+Los Angeles,Irwindale,36,0
+Los Angeles,La Canada Flintridge,100,6
 Los Angeles,La Habra Heights,19,0
-Los Angeles,La Mirada,487,21
-Los Angeles,La Puente,740,5
-Los Angeles,La Verne,197,2
-Los Angeles,Lakewood,688,8
-Los Angeles,Lancaster*,1550,21
-Los Angeles,Lawndale,308,8
-Los Angeles,Lomita,117,7
-Los Angeles,Lynwood*,1833,66
-Los Angeles,Malibu,69,2
-Los Angeles,Manhattan Beach,213,4
-Los Angeles,Maywood,771,22
-Los Angeles,Monrovia,412,30
-Los Angeles,Montebello,1245,32
-Los Angeles,Monterey Park,460,12
-Los Angeles,Norwalk,1747,37
-Los Angeles,Palmdale,1790,25
+Los Angeles,La Mirada,501,21
+Los Angeles,La Puente,773,5
+Los Angeles,La Verne,211,2
+Los Angeles,Lakewood,708,7
+Los Angeles,Lancaster*,1599,21
+Los Angeles,Lawndale,327,8
+Los Angeles,Lomita,121,7
+Los Angeles,Lynwood*,1905,68
+Los Angeles,Malibu,70,2
+Los Angeles,Manhattan Beach,217,4
+Los Angeles,Maywood,796,23
+Los Angeles,Monrovia,423,30
+Los Angeles,Montebello,1288,32
+Los Angeles,Monterey Park,474,12
+Los Angeles,Norwalk,1802,37
+Los Angeles,Palmdale,1848,26
 Los Angeles,Palos Verdes Estates,62,2
-Los Angeles,Paramount,1279,15
-Los Angeles,Pico Rivera,1379,44
-Los Angeles,Pomona,2345,37
-Los Angeles,Rancho Palos Verdes,185,12
-Los Angeles,Redondo Beach,318,9
+Los Angeles,Paramount,1334,15
+Los Angeles,Pico Rivera,1414,46
+Los Angeles,Pomona,2437,38
+Los Angeles,Rancho Palos Verdes,192,12
+Los Angeles,Redondo Beach,326,9
 Los Angeles,Rolling Hills,4,0
 Los Angeles,Rolling Hills Estates,30,2
-Los Angeles,Rosemead,401,11
-Los Angeles,San Dimas*,264,2
-Los Angeles,San Fernando,413,12
-Los Angeles,San Gabriel,323,25
-Los Angeles,San Marino,36,1
-Los Angeles,Santa Clarita,1676,34
-Los Angeles,Santa Fe Springs,282,1
-Los Angeles,Santa Monica,535,37
-Los Angeles,Sierra Madre,44,3
-Los Angeles,Signal Hill,138,0
-Los Angeles,South El Monte,404,11
-Los Angeles,South Gate,2476,40
-Los Angeles,South Pasadena,192,23
-Los Angeles,Temple City,325,34
-Los Angeles,Torrance,792,51
-Los Angeles,Vernon,14,0
-Los Angeles,Walnut,150,1
-Los Angeles,West Covina,1577,19
-Los Angeles,West Hollywood,354,4
+Los Angeles,Rosemead,422,11
+Los Angeles,San Dimas*,273,2
+Los Angeles,San Fernando,430,12
+Los Angeles,San Gabriel,330,25
+Los Angeles,San Marino,35,1
+Los Angeles,Santa Clarita,1720,33
+Los Angeles,Santa Fe Springs,295,2
+Los Angeles,Santa Monica,543,35
+Los Angeles,Sierra Madre,45,3
+Los Angeles,Signal Hill,142,0
+Los Angeles,South El Monte,418,12
+Los Angeles,South Gate,2590,39
+Los Angeles,South Pasadena,198,23
+Los Angeles,Temple City,330,34
+Los Angeles,Torrance,810,51
+Los Angeles,Vernon,15,0
+Los Angeles,Walnut,155,1
+Los Angeles,West Covina,1637,20
+Los Angeles,West Hollywood,364,4
 Los Angeles,Westlake Village,14,0
-Los Angeles,Whittier,1151,15
-San Diego,Incorporated City,"18,485",
-San Diego,Carlsbad,334,
-San Diego,Chula Vista,"2,781",
-San Diego,Coronado,94,
+Los Angeles,Whittier,1192,14
+San Diego,Incorporated City,"18,842",
+San Diego,Carlsbad,345,
+San Diego,Chula Vista,"2,824",
+San Diego,Coronado,96,
 San Diego,Del Mar,24,
-San Diego,El Cajon,"1,033",
-San Diego,Encinitas,212,
-San Diego,Escondido,853,
-San Diego,Imperial Beach,275,
-San Diego,La Mesa,343,
-San Diego,Lemon Grove,228,
-San Diego,National City,892,
-San Diego,Oceanside,696,
-San Diego,Poway,144,
-San Diego,San Diego,"9,401",
-San Diego,San Marcos,440,
-San Diego,Santee,192,
-San Diego,Solana Beach,34,
-San Diego,Vista,509,
-San Diego,Unincorporated,"2,635",
+San Diego,El Cajon,"1,043",
+San Diego,Encinitas,215,
+San Diego,Escondido,868,
+San Diego,Imperial Beach,282,
+San Diego,La Mesa,350,
+San Diego,Lemon Grove,236,
+San Diego,National City,900,
+San Diego,Oceanside,716,
+San Diego,Poway,147,
+San Diego,San Diego,"9,586",
+San Diego,San Marcos,453,
+San Diego,Santee,200,
+San Diego,Solana Beach,36,
+San Diego,Vista,521,
+San Diego,Unincorporated,"2,680",
 San Diego,Alpine,49,
-San Diego,Bonita,83,
-San Diego,Bonsall,23,
+San Diego,Bonita,84,
+San Diego,Bonsall,24,
 San Diego,Borrego Springs,15,
 San Diego,Boulevard,4,
-San Diego,Campo,11,
+San Diego,Campo,12,
 San Diego,Descanso,6,
-San Diego,Dulzura,30,
-San Diego,Fallbrook,190,
+San Diego,Dulzura,31,
+San Diego,Fallbrook,197,
 San Diego,Jamul,41,
 San Diego,Julian,4,
-San Diego,Lakeside,158,
-San Diego,Pala,21,
+San Diego,Lakeside,161,
+San Diego,Pala,22,
 San Diego,Pauma Valley,8,
 San Diego,Pine Valley,4,
 San Diego,Potrero,18,
-San Diego,Ramona,122,
+San Diego,Ramona,124,
 San Diego,Ranchita,3,
-San Diego,Rancho Santa Fe,42,
+San Diego,Rancho Santa Fe,43,
 San Diego,Santa Ysabel,2,
-San Diego,Spring Valley,719,
+San Diego,Spring Valley,729,
 San Diego,Tecate,12,
-San Diego,Valley Center,57,
+San Diego,Valley Center,58,
 San Diego,Warner Springs,4,
-San Diego,Other,"1,009",
-San Diego,Unknown****,326,
-San Diego,Total San Diego County Residents,"21,446",
+San Diego,Other,"1,025",
+San Diego,Unknown****,333,
+San Diego,Total San Diego County Residents,"21,855",
 Riverside,County Jails,259,3
 Riverside,State Prison,"1,156",1
 Riverside,Incorporated City,"20,889",493
@@ -282,17 +282,17 @@ San Bernardino,Yucaipa,519,26
 San Bernardino,Yucca Valley,82,1
 San Bernardino,Undetermined,802,3
 San Bernardino,Grand Total,"21,468",310
-Santa Barbara,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",81,0
-Santa Barbara,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,500,3
-Santa Barbara,CITY OF GOLETA,93,2
-Santa Barbara,COMMUNITY OF ISLA VISTA,28,0
-Santa Barbara,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,69,1
-Santa Barbara,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",43,0
-Santa Barbara,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,252,4
-Santa Barbara,FEDERAL PRISON IN LOMPOC,1000,3
-Santa Barbara,CITY OF SANTA MARIA,1924,18
-Santa Barbara,COMMUNITY OF ORCUTT,134,0
-Santa Barbara,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",172,0
+Santa Barbara,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",85,0
+Santa Barbara,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,544,3
+Santa Barbara,CITY OF GOLETA,98,2
+Santa Barbara,COMMUNITY OF ISLA VISTA,29,0
+Santa Barbara,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,74,1
+Santa Barbara,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",49,0
+Santa Barbara,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,271,4
+Santa Barbara,FEDERAL PRISON IN LOMPOC,1001,3
+Santa Barbara,CITY OF SANTA MARIA,2036,18
+Santa Barbara,COMMUNITY OF ORCUTT,138,0
+Santa Barbara,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",180,0
 Santa Barbara,Out of County,—,1
-Santa Barbara,Pending,116,—
-Santa Barbara,Total,4412,32
+Santa Barbara,Pending,130,—
+Santa Barbara,Total,4635,32
