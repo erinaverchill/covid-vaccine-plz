@@ -25,8 +25,11 @@ San Bernardino County Department of Public Health
 https://sbcph.maps.arcgis.com/apps/opsdashboard/index.html#/e7624f177c6449dcb88498437c1b921d
 
 https://www.worldometers.info/coronavirus/usa/california/
+
 https://occovid19.ochealthinfo.com/coronavirus-in-oc
+
 http://publichealth.lacounty.gov/media/Coronavirus/data/index.htm
+
 https://sbcovid19.com/
 
 #### Purpose
@@ -44,4 +47,3 @@ Back End (Acquisition, cleaning, ETL) - Jung Je, Adrian and Andrea (DB)
 Front End - Erin and Srinivas
   - JavaScript, Visualization
   - html/css index page
-
