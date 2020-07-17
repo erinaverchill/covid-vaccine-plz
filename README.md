@@ -12,11 +12,21 @@ https://ochca.maps.arcgis.com/apps/opsdashboard/index.html#/5839a554eaac45c2b8e0
 County of Los Angeles Public Health
 http://publichealth.lacounty.gov/media/Coronavirus/locations.htm
 
+San Diego County Communicable Disease Registry; SANDAG 2019 Population Estimates (Prepared June 2020)
+https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/COVID-19%20Daily%20Update_City%20of%20Residence.pdf
+
+Santa Barbara Public Health Dept
+https://publichealthsbc.org/status-reports/
+
+CalRedie Communicable Disease Registry/Prepared by Riverside University Health System: Public Health, Epidemiology & Program Evaluation
+https://www.rivcoph.org/Portals/0/Documents/CoronaVirus/July/Dashboard/2/City_Report_071320.pdf?ver=2020-07-13-151405-373&timestamp=1594678461087
+
+San Bernardino County Department of Public Health
+https://sbcph.maps.arcgis.com/apps/opsdashboard/index.html#/e7624f177c6449dcb88498437c1b921d
+
 https://www.worldometers.info/coronavirus/usa/california/
 https://occovid19.ochealthinfo.com/coronavirus-in-oc
 http://publichealth.lacounty.gov/media/Coronavirus/data/index.htm
-https://rivcoph.org/coronavirus
-https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html
 https://sbcovid19.com/
 
 #### Purpose
