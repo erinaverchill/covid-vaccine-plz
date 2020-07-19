@@ -37,11 +37,11 @@ Orange,Villa Park ,35,0
 Orange,Westminster ,535,12
 Orange,Yorba Linda ,383,4
 Los Angeles,Agoura Hills,231,1
-Los Angeles,Alhambra,4967,13
+Los Angeles,Alhambra,4967,14
 Los Angeles,Artesia,795,3
 Los Angeles,Avalon,914,0
 Los Angeles,Azusa,17,9
-Los Angeles,Baldwin Park,278,39
+Los Angeles,Baldwin Park,278,40
 Los Angeles,Bell,149,26
 Los Angeles,Bell Gardens,293,13
 Los Angeles,Bellflower,1337,39
@@ -50,14 +50,14 @@ Los Angeles,Bradbury,1417,0
 Los Angeles,Cerritos,98,7
 Los Angeles,Claremont,108,3
 Los Angeles,Commerce,178,2
-Los Angeles,Compton,223,29
+Los Angeles,Compton,223,30
 Los Angeles,Covina,34,11
 Los Angeles,Cudahy,445,11
 Los Angeles,Culver City,141,27
 Los Angeles,Diamond Bar,56,4
-Los Angeles,Downey,469,59
+Los Angeles,Downey,469,60
 Los Angeles,Duarte,689,23
-Los Angeles,El Monte,1337,74
+Los Angeles,El Monte,1337,76
 Los Angeles,El Segundo,523,0
 Los Angeles,Gardena,40,34
 Los Angeles,Glendale,196,122
@@ -66,55 +66,55 @@ Los Angeles,Hawaiian Gardens,254,1
 Los Angeles,Hawthorne,197,28
 Los Angeles,Hermosa Beach,5419,2
 Los Angeles,Hidden Hills,161,0
-Los Angeles,Huntington Park,18,29
+Los Angeles,Huntington Park,18,30
 Los Angeles,Industry,341,2
-Los Angeles,Inglewood,119,70
+Los Angeles,Inglewood,119,71
 Los Angeles,Irwindale,656,0
 Los Angeles,La Canada Flintridge,35,6
 Los Angeles,La Habra Heights,535,0
 Los Angeles,La Mirada,383,21
-Los Angeles,La Puente,787,6
-Los Angeles,La Verne,221,3
-Los Angeles,Lakewood,719,7
-Los Angeles,Lancaster,1630,23
-Los Angeles,Lawndale,356,8
-Los Angeles,Lomita,121,7
-Los Angeles,Lynwood,1940,68
+Los Angeles,La Puente,817,7
+Los Angeles,La Verne,229,3
+Los Angeles,Lakewood,743,7
+Los Angeles,Lancaster,1659,23
+Los Angeles,Lawndale,362,8
+Los Angeles,Lomita,149,7
+Los Angeles,Lynwood,1980,69
 Los Angeles,Malibu,71,2
 Los Angeles,Manhattan Beach,222,4
-Los Angeles,Maywood,801,23
-Los Angeles,Monrovia,431,31
-Los Angeles,Montebello,1312,32
-Los Angeles,Monterey Park,492,12
-Los Angeles,Norwalk,1857,40
-Los Angeles,Palmdale,1868,26
-Los Angeles,Palos Verdes Estates,62,2
-Los Angeles,Paramount,1356,15
-Los Angeles,Pico Rivera,1435,48
-Los Angeles,Pomona,2535,40
-Los Angeles,Rancho Palos Verdes,193,12
-Los Angeles,Redondo Beach,333,9
+Los Angeles,Maywood,823,24
+Los Angeles,Monrovia,437,31
+Los Angeles,Montebello,1341,32
+Los Angeles,Monterey Park,499,12
+Los Angeles,Norwalk,1891,41
+Los Angeles,Palmdale,1900,26
+Los Angeles,Palos Verdes Estates,64,2
+Los Angeles,Paramount,1396,15
+Los Angeles,Pico Rivera,1465,48
+Los Angeles,Pomona,2605,42
+Los Angeles,Rancho Palos Verdes,194,12
+Los Angeles,Redondo Beach,339,9
 Los Angeles,Rolling Hills,4,0
 Los Angeles,Rolling Hills Estates,30,2
-Los Angeles,Rosemead,435,11
-Los Angeles,San Dimas,281,2
-Los Angeles,San Fernando,437,12
-Los Angeles,San Gabriel,334,26
-Los Angeles,San Marino,41,1
-Los Angeles,Santa Clarita,1743,33
-Los Angeles,Santa Fe Springs,300,2
-Los Angeles,Santa Monica,545,35
+Los Angeles,Rosemead,447,11
+Los Angeles,San Dimas,288,2
+Los Angeles,San Fernando,454,12
+Los Angeles,San Gabriel,338,26
+Los Angeles,San Marino,42,1
+Los Angeles,Santa Clarita,1761,33
+Los Angeles,Santa Fe Springs,307,2
+Los Angeles,Santa Monica,547,35
 Los Angeles,Sierra Madre,45,3
-Los Angeles,Signal Hill,148,0
-Los Angeles,South El Monte,430,12
-Los Angeles,South Gate,2633,40
+Los Angeles,Signal Hill,151,0
+Los Angeles,South El Monte,440,12
+Los Angeles,South Gate,2683,41
 Los Angeles,South Pasadena,199,23
 Los Angeles,Vernon,16,0
-Los Angeles,Walnut,158,1
-Los Angeles,West Covina,1659,21
-Los Angeles,West Hollywood,368,4
-Los Angeles,Westlake Village,14,0
-Los Angeles,Whittier,1217,14
+Los Angeles,Walnut,160,1
+Los Angeles,West Covina,1704,21
+Los Angeles,West Hollywood,373,4
+Los Angeles,Westlake Village,17,0
+Los Angeles,Whittier,1253,14
 Riverside,County Jails,231,2
 Riverside,State Prison,4967,1
 Riverside,Banning,795,10
@@ -142,37 +142,6 @@ Riverside,Riverside,40,142
 Riverside,San Jacinto,196,8
 Riverside,Temecula,26,1
 Riverside,Wildomar,254,5
-Riverside,Anza,795,0
-Riverside,Bermuda Dunes,914,1
-Riverside,Cabazon,17,1
-Riverside,Cherry Valley,278,2
-Riverside,Coronita,149,1
-Riverside,Desert Edge,293,2
-Riverside,Desert Palms,1337,2
-Riverside,East Hemet,1499,2
-Riverside,El Cerrito,1417,0
-Riverside,Good Hope,98,1
-Riverside,Green Acres,108,0
-Riverside,Home Gardens,178,0
-Riverside,Homeland,223,0
-Riverside,Idyllwild-Pine Cove,34,0
-Riverside,Lake Mathews,445,4
-Riverside,Lakeland Village,141,1
-Riverside,Lakeview,56,0
-Riverside,Mead Valley,469,4
-Riverside,Meadowbrook,689,0
-Riverside,Mecca,1337,6
-Riverside,North Shore,523,1
-Riverside,Nuevo,40,1
-Riverside,Oasis,196,1
-Riverside,Romoland,26,1
-Riverside,Sky Valley,254,0
-Riverside,Temescal Valley,197,0
-Riverside,Thousand Palms,5419,0
-Riverside,Valle Vista,161,0
-Riverside,Vista Santa Rosa,18,1
-Riverside,Winchester,341,0
-Riverside,Woodcrest,119,4
 Riverside,Anza,795,0
 Riverside,Bermuda Dunes,914,1
 Riverside,Cabazon,17,1
@@ -241,41 +210,41 @@ San Bernardino,Landers,656,0
 San Bernardino,Lenwood,35,0
 San Bernardino,Loma Linda,535,1
 San Bernardino,Lucerne Valley,383,0
-San Bernardino,Lytle Creek,787,0
-San Bernardino,Mentone,221,2
-San Bernardino,Montclair,719,8
-San Bernardino,Morongo Valley,1630,0
-San Bernardino,Mt Baldy,356,0
-San Bernardino,Muscoy,121,0
-San Bernardino,Needles,1940,0
+San Bernardino,Lytle Creek,817,0
+San Bernardino,Mentone,229,2
+San Bernardino,Montclair,743,8
+San Bernardino,Morongo Valley,1659,0
+San Bernardino,Mt Baldy,362,0
+San Bernardino,Muscoy,149,0
+San Bernardino,Needles,1980,0
 San Bernardino,Newberry Springs,71,0
 San Bernardino,Oak Glen,222,0
-San Bernardino,Oak Hills,801,1
-San Bernardino,Ontario,431,39
-San Bernardino,Oro Grande,1312,0
-San Bernardino,Phelan,492,0
-San Bernardino,Piñon Hills,1857,0
-San Bernardino,Pioneertown,1868,0
-San Bernardino,Rancho Cucamonga,62,10
-San Bernardino,Redlands,1356,52
-San Bernardino,Rialto,1435,14
-San Bernardino,Rimforest,2535,0
-San Bernardino,Running Springs,193,0
-San Bernardino,San Antonio Heights,333,0
+San Bernardino,Oak Hills,823,1
+San Bernardino,Ontario,437,39
+San Bernardino,Oro Grande,1341,0
+San Bernardino,Phelan,499,0
+San Bernardino,Piñon Hills,1891,0
+San Bernardino,Pioneertown,1900,0
+San Bernardino,Rancho Cucamonga,64,10
+San Bernardino,Redlands,1396,52
+San Bernardino,Rialto,1465,14
+San Bernardino,Rimforest,2605,0
+San Bernardino,Running Springs,194,0
+San Bernardino,San Antonio Heights,339,0
 San Bernardino,San Bernardino,4,28
 San Bernardino,Spring Valley Lake,30,0
-San Bernardino,Sugarloaf,435,0
-San Bernardino,Trona,281,0
-San Bernardino,Twentynine Palms,437,0
-San Bernardino,TN Palms Marine Base,334,0
-San Bernardino,Twin Peaks,41,0
-San Bernardino,Upland,1743,14
-San Bernardino,Valley of Enchantment,300,0
-San Bernardino,Victorville,545,8
+San Bernardino,Sugarloaf,447,0
+San Bernardino,Trona,288,0
+San Bernardino,Twentynine Palms,454,0
+San Bernardino,TN Palms Marine Base,338,0
+San Bernardino,Twin Peaks,42,0
+San Bernardino,Upland,1761,14
+San Bernardino,Valley of Enchantment,307,0
+San Bernardino,Victorville,547,8
 San Bernardino,Wonder Valley,45,0
-San Bernardino,Wrightwood,148,0
-San Bernardino,Yermo,430,0
-San Bernardino,Yucaipa,2633,26
+San Bernardino,Wrightwood,151,0
+San Bernardino,Yermo,440,0
+San Bernardino,Yucaipa,2683,26
 San Bernardino,Yucca Valley,199,1
 Santa Barbara,"South County Unincorp Areas: Montecito, Summerland communities and Carpinteria",4967,0
 Santa Barbara,Goleta,795,2
