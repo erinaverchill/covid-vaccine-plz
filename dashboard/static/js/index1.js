@@ -16,7 +16,7 @@ function makeChart(players) {
         options: {
             maintainAspectRatio: false,
             legend: {
-                display: false
+                display: true
             }
         },
         data: {
@@ -24,6 +24,7 @@ function makeChart(players) {
             datasets: [
 
                 {
+                    label: 'totalcountconfirmed',
                     backgroundColor: 'rgba(247, 163, 91, 1)',
                     borderColor:  'rgba(247, 163, 91, 1)',
                     borderWidth: 1,
@@ -31,6 +32,7 @@ function makeChart(players) {
 
                 },
                 {
+                    label: 'totalcountdeaths',
                     backgroundColor: 'rgba(144, 238, 125, 1)',
                     borderColor: 'rgba(144, 238, 125, 1)',
                     borderWidth: 1,
@@ -68,7 +70,7 @@ function makeChart_two(players) {
         options: {
             maintainAspectRatio: true,
             legend: {
-                display: false
+                display: true
             }
         },
         data: {
@@ -76,6 +78,7 @@ function makeChart_two(players) {
             datasets: [
 
                 {
+                    label: 'totalcountconfirmed',
                     backgroundColor: 'rgba(247, 163, 91, 1)',
                     borderColor:  'rgba(247, 163, 91, 1)',
                     borderWidth: 1,
@@ -83,6 +86,7 @@ function makeChart_two(players) {
 
                 },
                 {
+                    label: 'totalcountdeaths',
                     backgroundColor: 'rgba(144, 238, 125, 1)',
                     borderColor: 'rgba(144, 238, 125, 1)',
                     borderWidth: 1,

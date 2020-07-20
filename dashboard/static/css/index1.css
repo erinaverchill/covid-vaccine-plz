@@ -1,7 +1,11 @@
 #wrapper {
-    height: 5000px;
+    display: block;
+    height: 474px;
+    width: 948px;
 }
 
 #wrapper_two {
-    height: 700px;
+    display: block;
+    height: 474px;
+    width: 948px;
 }
