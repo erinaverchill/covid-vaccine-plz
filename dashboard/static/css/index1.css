@@ -9,3 +9,10 @@
     height: 474px;
     width: 948px;
 }
+
+#wrapper_three {
+	display: block;
+	background-color: blue;
+	height: 500px;
+	width: 1000px;
+}
