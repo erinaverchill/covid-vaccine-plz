@@ -23,7 +23,7 @@ import json
 # make sure to change the json file path later when you have the shapefile data
 # this json may not actually be correct because the example was using a json file to create the whole thing
 # double check that the encoding is correct
-with open('./dashboard/static/data/CA_Counties_TIGER2016.json', encoding= "ISO-8859-1") as data_file:
+with open('./dashboard/static/data/CA_Counties_TIGER2016_copy.json', encoding= "ISO-8859-1") as data_file:
 	geo_json = json.load(data_file)
 
 
